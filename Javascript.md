@@ -400,7 +400,7 @@
   ```
 
   ```javascript
-  lef fruit = prompt('무슨 과일을 사고 싶나요?');
+  let fruit = prompt('무슨 과일을 사고 싶나요?');
   
   switch(fruit){
   	case '사과':
